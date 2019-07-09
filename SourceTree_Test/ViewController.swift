@@ -26,7 +26,11 @@ class ViewController: UIViewController {
         
         print("MORE WOMBATS")
         
+<<<<<<< HEAD
         print("how bout some giraffes")
+=======
+        print("water buffalo?")
+>>>>>>> addWombats
     }
 
 
