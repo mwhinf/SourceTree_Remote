@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         print("first commit")
         
         print("hoobly boobly")
+        
+        print("tectonic plates")
     }
 
 
