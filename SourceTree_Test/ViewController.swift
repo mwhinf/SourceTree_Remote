@@ -39,6 +39,10 @@ class ViewController: UIViewController {
         print("boomerangs")
         
         print("dingos!")
+        
+        print("sharks")
+        
+        print("koalas")
     }
 
 
